@@ -76,7 +76,7 @@ public class Main {
             System.out.println("Задача 7");
             //Сегодня пятница, ...-е число. Необходимо подготовить отчет
 int fridayFirst = 5;
-            for (int day = fridayFirst; day <= 31; day += 6) {
+            for (int day = fridayFirst; day <= 31; day += 7) {
                 System.out.println("Сегодня пятница, " +day+ "-е число. Необходимо подготовить отчет");
             }
             //task 8
