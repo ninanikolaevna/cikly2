@@ -80,7 +80,7 @@ int fridayFirst = 5;
                 System.out.println("Сегодня пятница, " +day+ "-е число. Необходимо подготовить отчет");
             }
             //task 8
-        System.out.println("задача 8");
+        System.out.println("Задача 8");
         int time = 79;
             int startWatching = 0;
             int start = yearNow - 200;
